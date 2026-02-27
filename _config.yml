@@ -1,0 +1,7 @@
+title: VIS 42
+description: A foundational course on programming and computational thinking in the arts.
+theme: jekyll-theme-primer
+
+# Exclude GitHub metadata plugin (not needed for non-GitHub Pages deployment)
+exclude:
+  - README.md
