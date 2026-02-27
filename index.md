@@ -3,7 +3,7 @@ title: Home
 layout: default
 ---
 
-# VIS 42 - Intro to Creative Code - Winter 2026
+# VIS 42R - Intro to Creative Code
 [Schedule](#topics-and-schedule) | [Description](#description) | [Resources](#resources) | [Grading](#grading) | [Policies](#policies) | [References](#references)
 
 <div style="width: 100%; height: 200px; overflow: hidden; position: relative;">
@@ -15,17 +15,17 @@ layout: default
 
 # Description
 
-This course provides students with a foundation in programming and computational thinking, and their application in creative projects. Topics covered may include generative graphics and sound, interactive media, and others. Students will gain practical skills through hands-on experience and experimentation, learning to integrate computing into artistic practices. No prior programming experience is required.
+This course provides students with a foundation in programming and computational thinking, and their application in creative projects. Topics covered may include generative graphics and sound, interactive media, and others. Students will gain practical skills through hands-on experience and experimentation, learning to integrate computing into artistic practices. No prior programming experience is required. This is a remote, synchronous course.
 
 ## Details
 
 - **Instructor**: Dr. Robert Twomey
-- **Class**: Tu/Th 9:30-10:50 AM
-- **Location**: Pepper Canyon Hall 122 ([map](https://map.concept3d.com/?id=1005#!m/553563?share))
-- **Office Hours**: TBD likely Wednesday 1-2pm on zoom/discord
+- **Class**: TBD (likely Tu/Th 9:30-10:50 AM)
+- **Location**: remote on the class zoom, see Canvas
+- **Office Hours**: TBD likely Wednesday 1-3pm on zoom/discord
 
 ## Teaching Team
-- **Graduate TA**: Mavyn Vu
+- **Graduate TA**: TBD
 
 **Prerequisites**: None
 
@@ -33,14 +33,14 @@ This course provides students with a foundation in programming and computational
 We will use the open source creative coding language [p5.js](https://p5js.org/) within a jupyterlite environment. Try it out [here](https://p5nb.vercel.app/tree/index.html)!
 
 # Resources
-- **Canvas**: [https://canvas.ucsd.edu/courses/69603/](https://canvas.ucsd.edu/courses/73114) 
-(_used for everything: daily announcements, links to lectures, assignments, discussions_)
-- **Notebooks**: See Canvas for link (_lectures and other resources are shared here as jupyter notebooks_)
+- **Canvas**: [TBD] 
+(_used for everything: daily announcements, links to lecture slides, video recordings, assignments, discussions_)
+- **Notebooks**: See Canvas for link (_lectures and other resources are shared here as jupyterlite notebooks that run locally in the browser_)
 - **Discord**: See Canvas for link (_informal discussion, questions, peer support_)
-- **Zoom**: See Canvas for link (_for individual meetings with me, any remote instruction_)
+- **Zoom**: See Canvas for link (_for lecture sessions and individual meetings with me_)
 
 ## Required Materials
-You will need to bring a laptop or other computer. I recommend a notebook specifically for taking notes, drawing ideas, “writing” code, etc.
+You will need a laptop or other computer. I recommend a notebook or tablet specifically for taking notes, drawing ideas, “writing” code, etc.
 
 # Format
 - Plan to spend ~9 hours outside of class on coursework each week. (4 credit course ~ 12 hours of work time)
@@ -171,7 +171,7 @@ Answer at least two of the Peer Review questions below, in response to your peer
 - `Evaluate` - Is it successful? Does it explore the prompt in a compelling, interesting, or unique way?
 
 ## ICAM Policies
-File naming conventions and submissions. More [TK].
+We try to establish good professional standards in the ICAM courses. This helps us for grading and also helps you. All assignment submissions should be named according to the following template: _yournamelastname_lab1_ for labs, and _yournamelastname_hw1_ for homework projects. More details to come in the first lectures.
 
 ## Attendance
 On-time attendance is required as well as work inside and outside of section. Please notify your instructor in advance if you must be absent for illness or family emergency. Any absences must be cleared with the instructor, or justified with written documentation (e.g. letter from team, etc.). We do not differentiate between mental and physical health and in either case please be in communication for when you need to take a day off. **After a student misses a week’s worth of classes each subsequent missed class will result in the reduction of the final grade by a full letter grade (i.e., A to B, B- to C-).** Excessive tardiness or leaving early will also impact your grade and will follow the same rubric.
